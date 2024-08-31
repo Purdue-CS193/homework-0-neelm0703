@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Neel Mehta's First CS193 Homework
+  - I like how CS193 has no exams.
+  - I like how CS193 has only 1 class a week.
+  - I like how CS193 introduces me to github.
+  - I like how CS193 is taught by students.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
